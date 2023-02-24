@@ -1,5 +1,9 @@
 ### Hi there 👋
+My name is Rag! I love to solve puzzles and create cool software! 
+I have been working with software for over 5 years, some of my favorite languages are Java, Flutter, and Python.
+More projects are in the works, soon to be here.
 
+Linkedin: https://www.linkedin.com/in/ragsharma/
 <!--
 **rsharm48/rsharm48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
